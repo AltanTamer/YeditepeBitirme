@@ -1,0 +1,26 @@
+Recipe-sharing platforms are popular for discovering and sharing new recipes, but they often lack the engaging features seen on social media platforms like TikTok and Instagram.
+While these recipe sites offer structured browsing, they don’t provide the dynamic, community-driven experience of social media. TikTok and Instagram excel in user
+engagement, but their recipe discovery features are limited, lacking advanced filtering options for ingredients, meal types, or dietary preferences.
+This project aims to combine the best of both worlds by offering a swipe-based recipe discovery system similar to social media platforms while incorporating robust filtering and
+search features. Users will be able to share recipes, explore content, and leave reviews and ratings, providing valuable feedback and building a sense of community.
+By blending the social interaction of platforms like TikTok and Instagram with the functionality of dedicated recipe sites, this project will create a user-friendly, engaging
+environment for modern recipe enthusiasts. Success will be evaluated based on user feedback, engagement, and system performance, focusing on search and filtering
+effectiveness, the impact of reviews, and overall reliability.
+
+Features:
+  -Main Feature(Recipe sharing & reviewing): The platform enables recipe sharing, commenting, and rating.
+  -Dynamic Recipe Discovery: A swipe-based system, inspired by TikTok and Instagram, allows users to discover recipes in a fun and interactive manner.
+  -Advanced Filtering: Users can perform detailed searches and filter recipes by ingredients, meal types, dietary preferences and ratings.
+  -Recipe Bookmarking and Collections: Let users save their favorite recipes into personal collections or boards for easy access and organization. 
+  -User Profiles and Follow System: Enable users to create profiles, follow their favorite chefs or fellow users, and receive updates on new recipe posts or reviews. 
+  -Shopping List Integration: Allow users to automatically generate shopping lists based on selected recipes. 
+
+
+Users: 
+  There will be 4 type of users. Guests, SignedIns, Verified SignedIns, Administrator.
+
+  -Guests will be able to do simple searches using filters or using other options like top rated and most rated and will be able to see peoples profiles.
+  -SignedIns will be able to bookmark recipes, review recipes, create a list for ingredients for selected recipe and add/drop different ingredients, use discovery system and follow other profiles. (+do everything guests can do)
+  -Verified SignedIns will be able to publish food recipes. (+do everything SignedIns can do)
+  -Administrators will be able to delete recipes and reviews.
+
