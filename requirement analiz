@@ -12,8 +12,11 @@ Features:
   -Dynamic Recipe Discovery: A swipe-based system, inspired by TikTok and Instagram, allows users to discover recipes in a fun and interactive manner.
   -Advanced Filtering: Users can perform detailed searches and filter recipes by ingredients, meal types, dietary preferences and ratings.
   -Recipe Bookmarking and Collections: Let users save their favorite recipes into personal collections or boards for easy access and organization. 
-  -User Profiles and Follow System: Enable users to create profiles, follow their favorite chefs or fellow users, and receive updates on new recipe posts or reviews. 
-  -Shopping List Integration: Allow users to automatically generate shopping lists based on selected recipes. 
+  -User Profiles and Follow System: Enable users to create profiles, follow their favorite chefs or fellow users, and receive updates on new recipe posts or reviews. Users can see other profiles
+                                    recipe and review history.
+  -Shopping List Integration: Allow users to automatically generate shopping lists based on selected recipes. For example if a recipe contains ingredients like dough, milk and sugar if user
+                              wanted to create a shopping list they will just need to press one button and it will create a list of ingredients with a checkbox next to them. Users will be able to 
+                              add/delete items as they wish.
 
 
 Users: 
@@ -22,5 +25,5 @@ Users:
   -Guests will be able to do simple searches using filters or using other options like top rated and most rated and will be able to see peoples profiles.
   -SignedIns will be able to bookmark recipes, review recipes, create a list for ingredients for selected recipe and add/drop different ingredients, use discovery system and follow other profiles. (+do everything guests can do)
   -Verified SignedIns will be able to publish food recipes. (+do everything SignedIns can do)
-  -Administrators will be able to delete recipes and reviews.
+  -Administrators will be able to delete recipes and reviews, see every profiles follow list, suspend or warn profiles about violations of guideline.
 
