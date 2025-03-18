@@ -25,5 +25,5 @@ Users:
   -Guests will be able to do simple searches using filters or using other options like top rated and most rated and will be able to see peoples profiles.
   -SignedIns will be able to bookmark recipes, review recipes, create a list for ingredients for selected recipe and add/drop different ingredients, use discovery system and follow other profiles. (+do everything guests can do)
   -Verified SignedIns will be able to publish food recipes. (+do everything SignedIns can do)
-  -Administrators will be able to delete recipes and reviews, see every profiles follow list, suspend or warn profiles about violations of guideline.
+  -Administrators will be able to delete recipes and reviews, see every profiles follow list and bookmarks, suspend or warn profiles about violations of guideline.
 
